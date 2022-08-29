@@ -1,0 +1,10 @@
+@media only screen and (max-width: 768px){
+	.navbar-brand{width: 100px;}
+}
+.centrar{text-align: center;}
+.bgPrimario{background-color: lightgray;}
+@media only screen and (max-width: 1024px){
+	.navbar-collapse {
+		justify-content: flex-end;
+	}
+}
